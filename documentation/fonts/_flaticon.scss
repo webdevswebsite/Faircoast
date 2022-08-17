@@ -1,0 +1,206 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 27/11/2020 18:33
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-bell:before { content: "\f100"; }
+.flaticon-gear:before { content: "\f101"; }
+.flaticon-down-arrow:before { content: "\f102"; }
+.flaticon-dry-clean:before { content: "\f103"; }
+.flaticon-menu:before { content: "\f104"; }
+.flaticon-loupe:before { content: "\f105"; }
+.flaticon-facebook:before { content: "\f106"; }
+.flaticon-twitter:before { content: "\f107"; }
+.flaticon-linkedin:before { content: "\f108"; }
+.flaticon-instagram:before { content: "\f109"; }
+.flaticon-youtube:before { content: "\f10a"; }
+.flaticon-dribbble:before { content: "\f10b"; }
+.flaticon-reddit:before { content: "\f10c"; }
+.flaticon-pinterest:before { content: "\f10d"; }
+.flaticon-behance:before { content: "\f10e"; }
+.flaticon-google-plus-logo:before { content: "\f10f"; }
+.flaticon-next:before { content: "\f110"; }
+.flaticon-right-arrow:before { content: "\f111"; }
+.flaticon-left-arrow:before { content: "\f112"; }
+.flaticon-left-arrow-1:before { content: "\f113"; }
+.flaticon-right-chevron:before { content: "\f114"; }
+.flaticon-left-chevron:before { content: "\f115"; }
+.flaticon-left-arrow-2:before { content: "\f116"; }
+.flaticon-search:before { content: "\f117"; }
+.flaticon-search-interface-symbol:before { content: "\f118"; }
+.flaticon-magnifying-glass:before { content: "\f119"; }
+.flaticon-loupe-1:before { content: "\f11a"; }
+.flaticon-job-search:before { content: "\f11b"; }
+.flaticon-job-search-1:before { content: "\f11c"; }
+.flaticon-appartments:before { content: "\f11d"; }
+.flaticon-appartment:before { content: "\f11e"; }
+.flaticon-buildings:before { content: "\f11f"; }
+.flaticon-appartment-1:before { content: "\f120"; }
+.flaticon-mortgage:before { content: "\f121"; }
+.flaticon-building:before { content: "\f122"; }
+.flaticon-home:before { content: "\f123"; }
+.flaticon-apartment:before { content: "\f124"; }
+.flaticon-skyline:before { content: "\f125"; }
+.flaticon-town:before { content: "\f126"; }
+.flaticon-call:before { content: "\f127"; }
+.flaticon-telephone:before { content: "\f128"; }
+.flaticon-mobile-phone:before { content: "\f129"; }
+.flaticon-smartphone:before { content: "\f12a"; }
+.flaticon-telephone-1:before { content: "\f12b"; }
+.flaticon-email:before { content: "\f12c"; }
+.flaticon-mail:before { content: "\f12d"; }
+.flaticon-envelope:before { content: "\f12e"; }
+.flaticon-placeholder:before { content: "\f12f"; }
+.flaticon-location:before { content: "\f130"; }
+.flaticon-pin:before { content: "\f131"; }
+.flaticon-customer-care:before { content: "\f132"; }
+.flaticon-settings:before { content: "\f133"; }
+.flaticon-gear-1:before { content: "\f134"; }
+.flaticon-parking:before { content: "\f135"; }
+.flaticon-map:before { content: "\f136"; }
+.flaticon-region:before { content: "\f137"; }
+.flaticon-success:before { content: "\f138"; }
+.flaticon-plan:before { content: "\f139"; }
+.flaticon-bedroom:before { content: "\f13a"; }
+.flaticon-beds:before { content: "\f13b"; }
+.flaticon-double-bed:before { content: "\f13c"; }
+.flaticon-bed:before { content: "\f13d"; }
+.flaticon-bed-1:before { content: "\f13e"; }
+.flaticon-bedroom-1:before { content: "\f13f"; }
+.flaticon-bathtub:before { content: "\f140"; }
+.flaticon-bathroom:before { content: "\f141"; }
+.flaticon-bathroom-1:before { content: "\f142"; }
+.flaticon-kitchen:before { content: "\f143"; }
+.flaticon-kitchen-1:before { content: "\f144"; }
+.flaticon-living-room:before { content: "\f145"; }
+.flaticon-online:before { content: "\f146"; }
+.flaticon-relax:before { content: "\f147"; }
+.flaticon-living-room-1:before { content: "\f148"; }
+.flaticon-table:before { content: "\f149"; }
+.flaticon-dinner:before { content: "\f14a"; }
+.flaticon-restaurant:before { content: "\f14b"; }
+.flaticon-dinner-table:before { content: "\f14c"; }
+.flaticon-heart:before { content: "\f14d"; }
+.flaticon-camera:before { content: "\f14e"; }
+.flaticon-visibility:before { content: "\f14f"; }
+.flaticon-share:before { content: "\f150"; }
+.flaticon-share-1:before { content: "\f151"; }
+.flaticon-coffee-cup:before { content: "\f152"; }
+    
+    $font-Flaticon-bell: "\f100";
+    $font-Flaticon-gear: "\f101";
+    $font-Flaticon-down-arrow: "\f102";
+    $font-Flaticon-dry-clean: "\f103";
+    $font-Flaticon-menu: "\f104";
+    $font-Flaticon-loupe: "\f105";
+    $font-Flaticon-facebook: "\f106";
+    $font-Flaticon-twitter: "\f107";
+    $font-Flaticon-linkedin: "\f108";
+    $font-Flaticon-instagram: "\f109";
+    $font-Flaticon-youtube: "\f10a";
+    $font-Flaticon-dribbble: "\f10b";
+    $font-Flaticon-reddit: "\f10c";
+    $font-Flaticon-pinterest: "\f10d";
+    $font-Flaticon-behance: "\f10e";
+    $font-Flaticon-google-plus-logo: "\f10f";
+    $font-Flaticon-next: "\f110";
+    $font-Flaticon-right-arrow: "\f111";
+    $font-Flaticon-left-arrow: "\f112";
+    $font-Flaticon-left-arrow-1: "\f113";
+    $font-Flaticon-right-chevron: "\f114";
+    $font-Flaticon-left-chevron: "\f115";
+    $font-Flaticon-left-arrow-2: "\f116";
+    $font-Flaticon-search: "\f117";
+    $font-Flaticon-search-interface-symbol: "\f118";
+    $font-Flaticon-magnifying-glass: "\f119";
+    $font-Flaticon-loupe-1: "\f11a";
+    $font-Flaticon-job-search: "\f11b";
+    $font-Flaticon-job-search-1: "\f11c";
+    $font-Flaticon-appartments: "\f11d";
+    $font-Flaticon-appartment: "\f11e";
+    $font-Flaticon-buildings: "\f11f";
+    $font-Flaticon-appartment-1: "\f120";
+    $font-Flaticon-mortgage: "\f121";
+    $font-Flaticon-building: "\f122";
+    $font-Flaticon-home: "\f123";
+    $font-Flaticon-apartment: "\f124";
+    $font-Flaticon-skyline: "\f125";
+    $font-Flaticon-town: "\f126";
+    $font-Flaticon-call: "\f127";
+    $font-Flaticon-telephone: "\f128";
+    $font-Flaticon-mobile-phone: "\f129";
+    $font-Flaticon-smartphone: "\f12a";
+    $font-Flaticon-telephone-1: "\f12b";
+    $font-Flaticon-email: "\f12c";
+    $font-Flaticon-mail: "\f12d";
+    $font-Flaticon-envelope: "\f12e";
+    $font-Flaticon-placeholder: "\f12f";
+    $font-Flaticon-location: "\f130";
+    $font-Flaticon-pin: "\f131";
+    $font-Flaticon-customer-care: "\f132";
+    $font-Flaticon-settings: "\f133";
+    $font-Flaticon-gear-1: "\f134";
+    $font-Flaticon-parking: "\f135";
+    $font-Flaticon-map: "\f136";
+    $font-Flaticon-region: "\f137";
+    $font-Flaticon-success: "\f138";
+    $font-Flaticon-plan: "\f139";
+    $font-Flaticon-bedroom: "\f13a";
+    $font-Flaticon-beds: "\f13b";
+    $font-Flaticon-double-bed: "\f13c";
+    $font-Flaticon-bed: "\f13d";
+    $font-Flaticon-bed-1: "\f13e";
+    $font-Flaticon-bedroom-1: "\f13f";
+    $font-Flaticon-bathtub: "\f140";
+    $font-Flaticon-bathroom: "\f141";
+    $font-Flaticon-bathroom-1: "\f142";
+    $font-Flaticon-kitchen: "\f143";
+    $font-Flaticon-kitchen-1: "\f144";
+    $font-Flaticon-living-room: "\f145";
+    $font-Flaticon-online: "\f146";
+    $font-Flaticon-relax: "\f147";
+    $font-Flaticon-living-room-1: "\f148";
+    $font-Flaticon-table: "\f149";
+    $font-Flaticon-dinner: "\f14a";
+    $font-Flaticon-restaurant: "\f14b";
+    $font-Flaticon-dinner-table: "\f14c";
+    $font-Flaticon-heart: "\f14d";
+    $font-Flaticon-camera: "\f14e";
+    $font-Flaticon-visibility: "\f14f";
+    $font-Flaticon-share: "\f150";
+    $font-Flaticon-share-1: "\f151";
+    $font-Flaticon-coffee-cup: "\f152";
